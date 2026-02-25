@@ -1,13 +1,1 @@
-{
-  "machines": [
-    {
-      "machineId": "MID-M3R9RCK5-MM2J4PR6",
-      "machineName": "Sajids pc",
-      "browser": "Chrome/145.0.0.0",
-      "firstSeen": "2026-02-25T21:13:34.747Z",
-      "lastSeen": "2026-02-25T21:21:04.580Z",
-      "sessions": 3,
-      "machineLabel": "Windows 10/11 | Chrome 145 | N/A | Win32"
-    }
-  ]
-}
+
